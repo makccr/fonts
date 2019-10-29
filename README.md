@@ -11,7 +11,7 @@ I didn't find it particularly useful to organize my font collection in any way. 
 Some of my favorite fonts include: 
 
 Font Name       | Style      | Weight's available
- -------------- | ---------- | :----------------: 
+ -------------- | ---------- | -----------------: 
 Bebas Neue      | Display    | 100 - **900**
 Source Code Pro | Monospace  | 100 - **900**
 Open Sans       | Sans Serif | 100 - **900**
