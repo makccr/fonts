@@ -10,13 +10,13 @@ I didn't find it particularly useful to organize my font collection in any way. 
 
 Some of my favorite fonts include: 
 
-Font Name       | Style      | Weight's available
- -------------- | ---------- | -----------------: 
-Bebas Neue      | Display    | 100 - **900**
-Source Code Pro | Monospace  | 100 - **900**
-Open Sans       | Sans Serif | 100 - **900**
-Lato            | Sans Serif | 100 - **900**
-Menlo           | Monospace  | 400, **700**
-Trajan Pro      | Serif      | 400
-Montserrat      | Sans Serif | 100 - **900**
-Adobe Garamond  | Serif      | 400, **700**
+Font Name       | Style      | Weights available | Sample 
+ -------------- | ---------- | ----------------- | ------
+Adobe Garamond  | Serif      | 400, **700**      | ![][/git-resources/adobe-garamond.png]
+Bebas Neue      | Display    | 100 - **900**     | ![][/git-resources/bebas-neue.png]
+Lato            | Sans Serif | 100 - **900**     | ![][/git-resources/lato.png]
+Menlo           | Monospace  | 400, **700**      | ![][/git-resources/menlo.png]
+Montserrat      | Sans Serif | 100 - **900**     | ![][/git-resources/montserrat.png]
+Open Sans       | Sans Serif | 100 - **900**     | ![][/git-resources/open-sans.png]
+Source Code Pro | Monospace  | 100 - **900**     | ![][/git-resources/source-code-pro.png]
+Trajan Pro      | Serif      | 400               | ![][/git-resources/trajan-pro.png]
