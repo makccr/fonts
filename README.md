@@ -11,12 +11,12 @@ I didn't find it particularly useful to organize my font collection in any way. 
 Some of my favorite fonts include: 
 
 Font Name       | Style      | Weight's available
- -------------- | ---------- | :----------------: 
-Bebas Neue      | Display    | 100 - *900*
-Source Code Pro | Monospace  | 100 - *900*
-Open Sans       | Sans Serif | 100 - *900*
-Lato            | Sans Serif | 100 - *900*
-Menlo           | Monospace  | 400, *700*
+ -------------- | ---------- | -----------------: 
+Bebas Neue      | Display    | 100 - **900**
+Source Code Pro | Monospace  | 100 - **900**
+Open Sans       | Sans Serif | 100 - **900**
+Lato            | Sans Serif | 100 - **900**
+Menlo           | Monospace  | 400, **700**
 Trajan Pro      | Serif      | 400
-Montserrat      | Sans Serif | 100 - *900*
-Adobe Garamond  | Serif      | 400, *700*
+Montserrat      | Sans Serif | 100 - **900**
+Adobe Garamond  | Serif      | 400, **700**
