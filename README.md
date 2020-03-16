@@ -1,4 +1,5 @@
-# Fonts
+![Header SVG](https://makccr.github.io/images/github-header.svg)
+
 My collection of fonts. All fonts should be either True Type or Open Font formats. I've collected a number of various fonts over the years working with Motion Graphics and Graphic design, and I like to have my collection readily available. 
 
 If you are planing on using any of these fonts please check the licensing information for the fonts themselves. A good chunk of these fonts were free to download, and free use, but not all of them. 
