@@ -6,18 +6,3 @@ If you are planing on using any of these fonts please check the licensing inform
 
 ## Organization
 I didn't find it particularly useful to organize my font collection in any way. The main objective is to be able to quickly install all of these fonts on any system that I want to use for design work, and nothing is really much faster than ``git clone X``. So this is just one folder with a giant collection of fonts in it. 
-
----
-
-Some of my favorite fonts include: 
-
-Font Name       | Style      | Weights available | Sample 
- -------------- | ---------- | ----------------- | ------
-Adobe Garamond  | Serif      | 400, **700**      | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/adobe-garamond-pro.png)
-Bebas Neue      | Display    | 100 - **900**     | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/bebas-neue.png)
-Lato            | Sans Serif | 100 - **900**     | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/lato.png)
-Menlo           | Monospace  | 400, **700**      | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/menlo.png)
-Montserrat      | Sans Serif | 100 - **900**     | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/montserrat.png)
-Open Sans       | Sans Serif | 100 - **900**     | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/open-sans.png)
-Source Code Pro | Monospace  | 100 - **900**     | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/source-code-pro.png)
-Trajan Pro      | Serif      | 400               | ![](https://raw.githubusercontent.com/makccr/fonts/master/git-resources/trajan-pro.png)
