@@ -1,4 +1,6 @@
-![Header SVG](https://makccr.github.io/images/github-header.svg)
+<a href="https://makc.co">
+    <img src="https://makccr.github.io/images/github-header.svg" alt="MAKC lgoo" title="MAKC" align="right" height="60" />
+</a>
 
 My collection of fonts. All fonts should be either True Type or Open Font formats. I've collected a number of various fonts over the years working with Motion Graphics and Graphic design, and I like to have my collection readily available. 
 
